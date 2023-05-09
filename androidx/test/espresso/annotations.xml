@@ -1,0 +1,9 @@
+<root>
+    <item
+        name='androidx.test.espresso.ViewInteraction androidx.test.espresso.ViewInteraction perform(androidx.test.espresso.ViewAction...)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_-&gt;this&quot;" />
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
